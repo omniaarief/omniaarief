@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...R programming 
 - 🌱 I’m currently learning ... new models 
 - 💞️ I’m looking to collaborate on ... R graphics and models 
-- 📫 How to reach me ... by email omniaarief@fsc.bu.edu.eg
+- 📫 How to reach me ... by email omnia.arief@fsc.bu.edu.eg
 
 <!---
 omniaarief/omniaarief is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
