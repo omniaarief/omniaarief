@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @omniaarief
 - 👀 I’m interested in ...R programming 
-- 🌱 I’m currently learning ... new models 
+- 🌱 I’m currently learning ... numerical modelling :)
 - 💞️ I’m looking to collaborate on ... R graphics and models 
 - 📫 How to reach me ... by email omnia.arief@fsc.bu.edu.eg
 
